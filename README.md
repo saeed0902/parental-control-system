@@ -37,8 +37,10 @@ It uses your system’s hosts file to block or allow specified websites for a se
 
 ## 📸 Demo
 
-![Login Page](docs/screenshots/login.png)  
-![Control Panel](docs/screenshots/control-panel.png)
+![Login Page]![DFG](https://github.com/user-attachments/assets/ca095fa4-2708-46b2-8b60-20e51b936432)
+
+![Control Panel](![image](https://github.com/user-attachments/assets/d568d159-e5ba-470e-8f3b-d1defa7eb8dc)
+
 
 ---
 
